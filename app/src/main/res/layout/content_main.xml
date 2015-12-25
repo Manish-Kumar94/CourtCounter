@@ -128,7 +128,7 @@
                 android:layout_height="wrap_content"
                 android:layout_margin="8dp"
                 android:onClick="freeThrowB"
-                android:text="free throw"
+                android:text="free thro"
                 android:textAllCaps="true" />
 
         </LinearLayout>
